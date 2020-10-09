@@ -1,7 +1,5 @@
 # OS-projects
 
-Basic Introduction
-
 Hi this is repository for my OS class..
 
 Its basically for data structures used in Pintos which is linked list(different from conventional linked list), hash and bitmap
